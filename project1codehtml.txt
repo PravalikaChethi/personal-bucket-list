@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Personal Bucket List</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>My Personal Bucket List</h1>
+    <p>A collection of my dreams and goals</p>
+  </header>
+  <main>
+    <section>
+      <h2>Travel</h2>
+      <ul>
+        <li><span class="icon">✔️</span> Visit Paris</li>
+        <li><span class="icon">⭐</span> Explore Japan</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li><span class="icon">✔️</span> Learn Guitar</li>
+        <li><span class="icon">⭐</span> Master Web Development</li>
+      </ul>
+    </section>
+    <!-- Add more sections as needed -->
+  </main>
+  <footer>
+    <p>Designed by [Your Name]</p>
+  </footer>
+</body>
+</html>
